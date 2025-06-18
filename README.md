@@ -2,7 +2,7 @@
 - 👀 I’m interested in Product Management, UX Design, Psychology, AWS, DevOps
 - 🌱 I’m currently learning AWS Big data services
 - 💞️ I’m looking to collaborate on designing and building products/solutions using AWS services
-- 📫 How to reach me : using email @ vidit@gmail.com or DM on Linkedin @ https://www.linkedin.com/in/viditm4
+- 📫 How to reach me : using email @ viditm4@gmail.com or DM on Linkedin @ https://www.linkedin.com/in/viditm4
 
 <!---
 viditm4/viditm4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
